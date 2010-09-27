@@ -1,0 +1,12 @@
+﻿{
+	"name": "IMDB Top 250 Checklist",
+	"version": "1.0",
+	"description": "Check the films you've seen",
+	"content_scripts": [
+		{
+			"matches": ["http://www.imdb.com/chart/top"],
+			"css": ["styles.css"],
+			"js": ["jquery-1.4.2.min.js", "content_script.js"]
+		}
+	]
+}
