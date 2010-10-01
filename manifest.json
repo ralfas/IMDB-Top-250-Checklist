@@ -1,6 +1,6 @@
 ﻿{
 	"name": "IMDB Top 250 Checklist",
-	"version": "1.0",
+	"version": "1.0.1",
 	"description": "Check the films you've seen",
 	"icons": {
 		"16": "icon16.png",
